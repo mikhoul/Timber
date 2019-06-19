@@ -84,7 +84,7 @@
             android:name=".activities.NowPlayingActivity"
             android:theme="@style/AppTheme.FullScreen.Light" />
 
-        <activity android:name=".activities.DonateActivity"/>
+      <!--    <activity android:name=".activities.DonateActivity"/>     -->
 
 
         <receiver android:name=".helpers.MediaButtonIntentReceiver">
